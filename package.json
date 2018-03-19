@@ -1,0 +1,16 @@
+{
+  "name": "my-webpack-project",
+  "version": "1.0.0",
+  "description": "example for react & redux guide",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node devserver",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.1.1",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
